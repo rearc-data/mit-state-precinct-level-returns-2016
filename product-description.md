@@ -1,4 +1,4 @@
-State Precinct-Level Returns 2016 | Harvard Dataverse/MEDSL
+State Precinct-Level Returns 2016 | Harvard Dataverse / MEDSL
 =========================
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/mit-state-level-returns-2016](https://github.com/rearc-data/mit-state-level-returns-2016).
